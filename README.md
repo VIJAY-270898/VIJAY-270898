@@ -1,7 +1,5 @@
 👋 Hi, I’m @VIJAY-270898.
-👀 I’m interested in sharing my insights on real-world SQL projects.
-🌱 I’m currently learning DATA ANALYTICS.
-💞️ I’m looking to collaborate on DATA ANALYTICS PROJECTS.
+ I’m interested in sharing my insights on real-world SQL projects.
 EMAIL: vijayaragavan1998@gmail.com
 
 <!---
