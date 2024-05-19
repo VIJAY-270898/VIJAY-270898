@@ -1,5 +1,5 @@
 👋 Hi, I’m @VIJAY-270898.
- I’m interested in sharing my insights on real-world SQL projects.
+I am a Price Analyst and Data Analyst, aiming to deliver valuable insights in today's data-driven world.
 EMAIL: vijayaragavan1998@gmail.com
 
 <!---
